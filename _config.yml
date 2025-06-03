@@ -16,16 +16,15 @@ show_sidebar: true        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: Inicio}
-  - {file: "about_me.md", title: Sobre mí}
+  - {file: "index.md", title: Sobre mí}
   - {file: "portafolio.md", title: Portafolio}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:xavier.jacome.p@hotmail.com"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/xavierjacomep/"}
-  - {title: GitHub, icon: github, url: "https://github.com/xavierjacomep"}
-  - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@xavierjacomep"}
+  - {title: Mail, icon: envelope, url: "mailto:ccalderoncabezas@gmail.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/carlos-calderon-cabezas/"}
+  - {title: GitHub, icon: github, url: "https://github.com/carlos-calderon-cabezas/"}
+
 
 remote_theme: niklasbuschmann/contrast@v2.11
 

@@ -1,5 +1,6 @@
 # Acerca de mí
-¡Hola! Soy **Carlos Calderón**, un analista de datos de datos y desarrollador con una sólida experiencia en el análisis y modelado de grandes volúmenes de datos, especializándome en la aplicación de técnicas avanzadas de análisis geoespacial y machine learning.
+¡Hola! Soy **Carlos Calderón** y soy un ingeniero de profesión apasionado por la informática y la tecnología en general. Dentro de la informática me gusta mucho el análisis de datos, la inteligencia artificial y el machine learning, la inteligencia de negocios y la computación en la nube. Cuento además con una Maestría en Data Science. En esta página podrán encontrar algunos de mis proyectos más destacados como analista de datos tanto en Python, como dashboards en Power BI en línea.
+
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/156715991?v=4" alt="Imagen de Perfil" width="250" height="250">
@@ -23,7 +24,7 @@
 
 
 ## Formación Académica
-- Máster en Sistemas de Información y Data Science - Escuela de Posgrado Newman. 
+- Máster en Sistemas de Información y Data Science - Universidad de los Hemisferios - IMF Global Univerity. 
 <br> **_2022 - 2024_**
 - Ingeniero Civil - Universidad San Francisco de Quito.
 <br> **_2015 - 2021_**
@@ -58,6 +59,6 @@
 - **Metodologías**: Machine Learning, Análisis de Series de Tiempo, Estadística Multivariante, Tests A/B y Diseño de Experimentos, Analítica para Big Data.
 - **Lenguajes**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, etc.), SQL.
 - **Herramientas**: Jupyter Notebook, Spyder, Tableau, SQL Server, IBM DB2 y PDA, Azure Machine Learning, PowerBI, MS Excel, SPSS.
-- **Idiomas**: Inglés (B2).
+- **Idiomas**: Inglés (C1).
 
 ___
