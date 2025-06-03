@@ -1,6 +1,6 @@
-# ¡Bienvenido a mi portafolio de Ciencia de Datos!
+# ¡Bienvenido a mi portafolio de Analista de Datos!
 
-¡Hola! Mi nombre es Carlos Calderón y soy Analista de Datos un científico de datos con una sólida experiencia en el análisis y modelado de grandes volúmenes de datos, especializándome en la aplicación de técnicas avanzadas de análisis geoespacial y machine learning.
+¡Hola! Mi nombre es Carlos Calderón y soy Analista de Datos con una experiencia en el análisis y modelado de grandes volúmenes de datos, especializándome en la aplicación de técnicas avanzadas de análisis geoespacial y machine learning.
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/156715991?v=4" alt="Imagen de Perfil" width="250" height="250">
