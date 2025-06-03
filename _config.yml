@@ -1,0 +1,35 @@
+
+title: "Xavier Jácome Piñeiros"
+author: "Xavier Jácome Piñeiros"
+description: "Portafolio de Xavier Jácome Piñeiros"
+permalink: /:title/
+lang: "es"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+show_social: true         # show footer
+show_excerpts: false       # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
+show_sidebar: true        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md", title: Inicio}
+  - {file: "about_me.md", title: Sobre mí}
+  - {file: "portafolio.md", title: Portafolio}
+  - {file: "blog.md", title: Blog}
+
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:xavier.jacome.p@hotmail.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/xavierjacomep/"}
+  - {title: GitHub, icon: github, url: "https://github.com/xavierjacomep"}
+  - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@xavierjacomep"}
+
+remote_theme: niklasbuschmann/contrast@v2.11
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
