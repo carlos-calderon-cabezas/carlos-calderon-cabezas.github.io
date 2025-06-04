@@ -1,5 +1,5 @@
 # Acerca de mí
-¡Hola! Soy **Carlos Calderón** y soy un ingeniero de profesión apasionado por la informática y la tecnología en general. Dentro de la informática me gusta mucho el análisis de datos, la inteligencia artificial y el machine learning, la inteligencia de negocios y la computación en la nube. Cuento además con una Maestría en Data Science. En esta página podrán encontrar algunos de mis proyectos más destacados como analista de datos tanto en Python, como dashboards en Power BI en línea.
+¡Hola! Soy **Carlos Calderón** y soy un ingeniero de profesión apasionado por la informática y la tecnología en general. Dentro de la informática me gusta mucho el análisis de datos, la inteligencia artificial y el machine learning, la inteligencia de negocios y la computación en la nube. Cuento además con una Maestría en Data Science. En esta página podrán encontrar algunos de mis proyectos más destacados tanto en Python, SQL, así como Dashboards realizados mediante Power BI.
 
 
 <p align="center">
@@ -9,16 +9,8 @@
 ---
 
 ## Experiencia Laboral
-- Jefe de Analítica para Monetización de Datos en importante empresa de telecomunicaciones de América Latina. 
-<br> **_Diciembre 2021 - Presente_**
-- Científico de Datos en importante empresa de telecomunicaciones de América Latina.
-<br> **_Enero 2020 - Diciembre 2021_**
-- Analista de Gobierno de Datos en importante empresa de telecomunicaciones de América Latina.
-<br> **_Julio 2018 - Enero 2020_**
-- Analista de Planificación Financiera en importante empresa de telecomunicaciones de América Latina.
-<br> **_Octubre 2017 - Julio 2018_**
-- Asistente de Costos en importante empresa de retail de Ecuador.
-<br> **_Noviembre 2016 - Octubre 2017_**
+- Analista de Datos y Especialista en Automatización en diferentes consultoras importantes de Ecuador. 
+<br> **_Noviembre 2022 - Presente_**
 
 ---
 
@@ -39,26 +31,20 @@
 
 ## Certificaciones
 
-- [Big Data with PySpark. DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/c34de39e1bcff476c5af0ae604ae1b8e5c5f132f)
-- [Academy Accreditation - Databricks Fundamentals. Databricks](https://credentials.databricks.com/22173f6e-a977-4030-97a2-b92e4dc898f7#acc.sb3tSOLx)
-- [Machine Learning Specialization. Stanford University](https://www.coursera.org/account/accomplishments/specialization/Z8DT3CGHVDUK)
-- [Credit Scoring con Python. Sociedad Ecuatoriana de Estadística](https://media.licdn.com/dms/document/media/v2/D4E2DAQH-GdyPYbl5ww/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1699646012882?e=1747267200&v=beta&t=RAYAcecOUlRqEGwJZWVtEBma-_I_kSxyiKs8NBCbLZ4)
--  [Data Science y Big Data: Decisiones basadas en datos. MITx](https://www.credential.net/0b6072d3-fea4-420c-8313-812a391bdd97#gs.y3xs7b)
-- [Inteligencia Artificial por Saturdays AI Guayaquil]()
-- [Data Science Foundation (Científico de Datos) por STEAM Center]()
-- [Data Science Professional Certificate por IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/S6C9PELLLP6X)
-- [Applied Data Science por IBM](https://www.coursera.org/account/accomplishments/specialization/RR74K4TTZGED)
-- [Microsoft SQL Server 2014 Nivel Básico por Escuela Superior Politécnica del Litoral]()
-- [Escuela de Liderazgo 2022 por BET Latam y Claro Ecuador]()
-- [ECCE Certification of Competency in English por University of Michigan]()
+- [Domina Python: FastAPI](https://www.linkedin.com/learning/certificates/100db1f51fbd02137394912fc031d4d866df407d54a3a7877f5800076d1e6132?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B1onjONS9TGu6FeGPHEIPyA%3D%3D)
+- [Analítica y modelado de datos con SQL](https://www.linkedin.com/in/carlos-calderon-cabezas/)
+- [Excel: Crear un dashboard intuitivo e impactante desde cero](https://www.linkedin.com/learning/certificates/c498670fab1d2893a8f2893ebd6ddc20846973f8d59fb856bddb27a5898698f2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B1onjONS9TGu6FeGPHEIPyA%3D%3D)
+- [Artificial Intelligence Professional Certificate - CAIPC®](https://www.credly.com/badges/8cff1310-2ace-4e8e-93c1-e3d8a5a9ae77/linked_in_profile)
+-  [Machine Learning with Python](https://www.credly.com/badges/4a9eca74-434e-4f74-a410-20c6983c7f1a/linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fd75000a-21d6-4313-bad8-8568370c3d87/linked_in_profile)
 
 ---
 
 ## Competencias
 
 - **Metodologías**: Machine Learning, Análisis de Series de Tiempo, Estadística Multivariante, Tests A/B y Diseño de Experimentos, Analítica para Big Data.
-- **Lenguajes**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, etc.), SQL.
-- **Herramientas**: Jupyter Notebook, Spyder, Tableau, SQL Server, IBM DB2 y PDA, Azure Machine Learning, PowerBI, MS Excel, SPSS.
+- **Lenguajes**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, etc.), SQL, Excel VBA (Macros).
+- **Herramientas**: Jupyter Notebook, Spyder, SQL Server, PowerBI, Excel, Visio.
 - **Idiomas**: Inglés (C1).
 
 ___
