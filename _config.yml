@@ -1,0 +1,33 @@
+
+title: "Carlos Calderón Cabezas"
+author: "Carlos Calderón Cabezas"
+description: "Portafolio de Carlos Calderón Cabezas"
+permalink: /:title/
+lang: "es"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+show_social: true         # show footer
+show_excerpts: false       # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
+show_sidebar: true        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md", icon: user-tie, title: Sobre mí}
+  - {file: "portafolio.md", icon: briefcase, title: Portafolio}
+
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:ccalderoncabezas@gmail.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/carlos-calderon-cabezas/"}
+  - {title: GitHub, icon: github, url: "https://github.com/carlos-calderon-cabezas/"}
+
+
+remote_theme: niklasbuschmann/contrast@v2.11
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
