@@ -9,11 +9,10 @@
 ---
 
 ## Experiencia Laboral
-- Analista de Datos y Especialista en Automatización dentro de diferentes consultoras importantes en Ecuador. 
+- Asistente de Datos y Especialista en Automatización dentro de diferentes consultoras importantes en Ecuador mediante proyectos y contratos eventuales. 
 <br> **_Noviembre 2022 - Presente_**
 
 ---
-
 
 ## Formación Académica
 - Máster en Sistemas de Información y Data Science - *Universidad de los Hemisferios - IMF Global Univerity*. 
@@ -26,6 +25,7 @@
 ## Logros
 - Grado con distinción Magna Cum Laude en la Maestría en Data Science de la Universidad de los Hemisferios.
 - Beca 25% por Excelencia Académica en la Carrera Ingeniería Civil - Universidad San Francisco de Quito.
+- Automatizar con macros la creación de ofertas para concurso público, reduciendo el tiempo de procesamiento en más de un 60%.
 
 ---
 
