@@ -1,4 +1,4 @@
-# Portafolio
+# Portfolio / Portafolio
 
 En este portafolio te comparto una selección de proyectos que ilustran mis habilidades en resolución de problemas y generación de impacto mediante *Análisis de Datos*, *Automatización de Procesos* y más... Cada proyecto es un testimonio de mi capacidad para manipular, analizar y traducir datos en insights útiles y accionables.
 
@@ -31,4 +31,3 @@ Entre los datos clave se pueden encontrar factores tales como: El total de deuda
 Este tipo de dashboard es ideal para equipos de cobranzas, finanzas o gestión de riesgo dentro de entidades financieras y de servicios que contemplen el riesgo de tener clientes morosos y necesitan tomar decisiones basadas en datos reales y actualizados.
 
 ___
-

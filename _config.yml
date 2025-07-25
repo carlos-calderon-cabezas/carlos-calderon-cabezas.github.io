@@ -1,7 +1,7 @@
 
 title: "Carlos Calderón Cabezas"
 author: "Carlos Calderón Cabezas"
-description: "Portafolio de Carlos Calderón Cabezas"
+description: "Carlos Calderon's Portfolio"
 permalink: /:title/
 lang: "es"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,9 @@ show_sidebar: true        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", icon: user-tie, title: Sobre mí}
-  - {file: "portafolio.md", icon: briefcase, title: Portafolio}
+  - {file: "index.md", icon: user-tie, title: About Me / Acerca de Mi}
+  - {file: "portafolio.md", icon: briefcase, title: Portafolio (Español)}
+  - {file: "portfolio_EN.md", icon: briefcase, title: Portfolio (English)}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
