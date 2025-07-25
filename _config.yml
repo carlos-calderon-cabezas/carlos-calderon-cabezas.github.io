@@ -18,8 +18,8 @@ show_sidebar: true        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", icon: user-tie, title: About Me (English)}
   - {file: "index_ES.md", icon: user-tie, title: Acerca de Mi (Español)}
-  - {file: "portafolio.md", icon: briefcase, title: Portafolio (Español)}
   - {file: "portfolio_EN.md", icon: briefcase, title: Portfolio (English)}
+  - {file: "portafolio.md", icon: briefcase, title: Portafolio (Español)}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
