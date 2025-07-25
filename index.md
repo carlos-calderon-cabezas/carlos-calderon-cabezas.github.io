@@ -2,12 +2,6 @@
 
 Hey there, mi name is Carlos Calderon, a former civil engineer who discovered their passion for computer science and technology in general. Within this field, I love data analysis, process automation, software development, and cloud computing. I currently have a Master's degree in Information Systems & Data Science. On this page, you'll find some of my most notable projects in Python, SQL, and interactive dashboards that I created in Power BI.
 
----
-
-## Acerca de Mi
-
-¡Hola! Soy **Carlos Calderón**, ingeniero civil de profesión que descubrió su pasión por la informática y la tecnología en general. Dentro de este campo me gusta mucho el análisis de datos, la automatización de procesos, el desarrollo de software y la computación en la nube. Cuento actualmente con una Maestría Sistemas de Información & Data Science. En esta página vas a encontrar algunos de mis proyectos más destacados tanto en Python, SQL, así como dashboards interactivos realizados en Power BI.
-
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/156715991?v=4" alt="Imagen de Perfil" width="250" height="250">
@@ -19,10 +13,6 @@ Hey there, mi name is Carlos Calderon, a former civil engineer who discovered th
 - Data Analyst and Automation Specialist for various major consulting firms in Ecuador through projects and temporary contracts.
 <br> ***November 2022 - Present***
 
-## Experiencia Laboral
-
-- Analista de Datos y Especialista en Automatización dentro de diferentes consultoras importantes en Ecuador mediante proyectos y contratos eventuales. 
-<br> ***Noviembre 2022 - Presente***
 
 ---
 
@@ -33,12 +23,6 @@ Hey there, mi name is Carlos Calderon, a former civil engineer who discovered th
 <br> ***2015 - 2021***
 
 
-## Formación Académica
-- Máster en Sistemas de Información y Data Science - *Universidad de los Hemisferios - IMF Global University*. 
-<br> ***2022 - 2024***
-- Ingeniero Civil - *Universidad San Francisco de Quito*.
-<br> ***2015 - 2021***
-
 ---
 
 ## Major Achievements
@@ -47,14 +31,9 @@ Hey there, mi name is Carlos Calderon, a former civil engineer who discovered th
 - Automated the creation of bids for public competitions with macros, reducing processing time by more than 60%.
 
 
-## Logros Destacados
-- Grado con distinción Magna Cum Laude en la Maestría en Data Science de la Universidad de los Hemisferios.
-- Beca 25% por Excelencia Académica en la Carrera Ingeniería Civil - Universidad San Francisco de Quito.
-- Automatizar con macros la creación de ofertas para concurso público, reduciendo el tiempo de procesamiento en más de un 60%.
-
 ---
 
-## Certifications / Certificaciones
+## Certifications
 
 - [Master Python: FastAPI](https://www.linkedin.com/learning/certificates/100db1f51fbd02137394912fc031d4d866df407d54a3a7877f5800076d1e6132?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B1onjONS9TGu6FeGPHEIPyA%3D%3D)
 - [Analytics and Data Modeling with SQL](https://www.linkedin.com/in/carlos-calderon-cabezas/)
@@ -72,11 +51,5 @@ Hey there, mi name is Carlos Calderon, a former civil engineer who discovered th
 - **Tools**: Jupyter Notebook, Spyder, SQL Server, PowerBI, Excel, Visio.
 - **Languages**: Spanish (Native), English (C1).
 
-## Competencias
-
-- **Metodologías**: Machine Learning, Análisis de Datos, Estadística Descriptiva e Inferencial, Procesamiento del Lenguaje Natural.
-- **Lenguajes**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, etc.), SQL, Excel VBA (Macros).
-- **Herramientas**: Jupyter Notebook, Spyder, SQL Server, PowerBI, Excel, Visio.
-- **Idiomas**: Inglés (C1), Español (Nativo).
 
 ___
