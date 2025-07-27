@@ -1,3 +1,5 @@
+[Clic here for the English version](index.md)
+
 ## Acerca de Mi
 
 ¡Hola! Soy **Carlos Calderón**, ingeniero civil de profesión que descubrió su pasión por la informática y la tecnología en general. Dentro de este campo me gusta mucho el análisis de datos, la automatización de procesos, el desarrollo de software y la computación en la nube. Cuento actualmente con una Maestría Sistemas de Información & Data Science. En esta página vas a encontrar algunos de mis proyectos más destacados tanto en Python, SQL, así como dashboards interactivos realizados en Power BI.
