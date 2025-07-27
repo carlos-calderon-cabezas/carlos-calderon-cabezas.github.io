@@ -1,4 +1,4 @@
-# Portfolio / Portafolio
+# Portafolio
 
 En este portafolio te comparto una selección de proyectos que ilustran mis habilidades en resolución de problemas y generación de impacto mediante *Análisis de Datos*, *Automatización de Procesos* y más... Cada proyecto es un testimonio de mi capacidad para manipular, analizar y traducir datos en insights útiles y accionables.
 
