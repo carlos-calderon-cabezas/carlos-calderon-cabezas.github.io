@@ -16,7 +16,19 @@ ___
 
 En este proyecto se analizan datos obtenidos mediante sensores de tráfico vehicular y de clima para analizar patrones y tendencias en tráfico vehicular en la carretera que fue objeto de los estudios de tráfico con el fin de detectar posibles causas en accidentes viales recientes y proponer soluciones de mejora en cuanto a elementos y técnicas de seguridad vial.
 
-Este estudio fue realizado con datos obtenidos de mediciones de tráfico vehicular realizadas entre el 2 de agosto de 2021 y el 12 de octubre de 2021, en un total de 71 días continuos.<br><br>
+Este estudio fue realizado con datos obtenidos de mediciones de tráfico vehicular realizadas entre el 2 de agosto de 2021 y el 12 de octubre de 2021, en un total de 71 días continuos.
+
+___
+
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/8a1e13c2-ff85-4c60-9ca3-51979bd4326a"> **[Mejora en Campañas de Alivio Financiero para Recuperación de Cartera Vencida](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis)**
+
+
+***PROYECTO EN CONSTRUCCIÓN***
+
+En este proyecto se analizan una muestra representativa de datos de clientes en estado de mora de una entidad financiera y nos ponemos en los zapatos del Banco para imaginar soluciones concretas y accionables con el fin de mejorar la gestión de recuperación de su cartera vencida.
+
+
+<br><br>
 
 
 
