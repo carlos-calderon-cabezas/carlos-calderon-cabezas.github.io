@@ -20,16 +20,6 @@ Este estudio fue realizado con datos obtenidos de mediciones de tráfico vehicul
 
 ___
 
-<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/8a1e13c2-ff85-4c60-9ca3-51979bd4326a"> **[Mejora en Campañas de Alivio Financiero para Recuperación de Cartera Vencida](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis)**
-
-
-***PROYECTO EN CONSTRUCCIÓN***
-
-En este proyecto se analizan una muestra representativa de datos de clientes en estado de mora de una entidad financiera y nos ponemos en los zapatos del Banco para imaginar soluciones concretas y accionables con el fin de mejorar la gestión de recuperación de su cartera vencida.
-
-
-<br><br>
-
 
 
 ## Proyectos de Visualización de Datos en Power BI
