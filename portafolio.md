@@ -35,7 +35,7 @@ Este tipo de dashboard es ideal para equipos de cobranzas, finanzas o gestión d
 ---
 
 
-<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://i.imgur.com/XESRE22.png"> **[Análisis de Indicadores Financieros para Gestión de Riesgos en un Banco](https://app.powerbi.com/view?r=eyJrIjoiZmJkYTFjNmYtZmU3YS00Mzc4LTk4MmMtMmQ3ZDIwZmFlNmIxIiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9)**
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/0212e98c-6da2-4c37-a676-f8546cfddffd"> **[Análisis de Indicadores Financieros para Gestión de Riesgos en un Banco](https://app.powerbi.com/view?r=eyJrIjoiZmJkYTFjNmYtZmU3YS00Mzc4LTk4MmMtMmQ3ZDIwZmFlNmIxIiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9)**
 
 Este dashboard fue construido con la finalidad de facilitar la gestión del **Área de Riesgos** en un Banco mediante la visualización fácil e intuitiva de diversos indicadores financieros, mismos que son presentados de manera diaria, además de varias *funciones DAX* internas que permiten tener separadores por fecha, gráficas de meses anteriores para una fecha seleccionada entre otras funcionalidades extra.
 
