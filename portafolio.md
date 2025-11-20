@@ -26,10 +26,18 @@ ___
 
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https://i.imgur.com/XESRE22.png"> **[Análisis de Morosidad en Entidad Fianciera](https://app.powerbi.com/view?r=eyJrIjoiZmJkYTFjNmYtZmU3YS00Mzc4LTk4MmMtMmQ3ZDIwZmFlNmIxIiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9)**
 
-Este dashboard utiliza datos sintéticos para mostrar un panorama completo de la cartera vencida de una entidad financiera, en donde se analiza el comportamiento de clientes morosos, los montos adeudados, así como su evolución en el tiempo tomando en cuenta para ello los datos demográficos que influyen en la morisidad de dichos clientes.
+Este dashboard busca mostrar un panorama completo de la cartera vencida de una entidad financiera, en donde se analiza el comportamiento de clientes morosos, los montos adeudados, así como su evolución en el tiempo tomando en cuenta para ello los datos demográficos que influyen en la morisidad de dichos clientes.
 
 Entre los datos clave se pueden encontrar factores tales como: El total de deuda vencida, incluyendo detalles a 15 y 60 días. La evolución mensual de la cartera vencida. Comparativas por género, tipo de relación laboral y principales deudores. Indicadores como el índice de morosidad y los días promedio de atraso.
 
 Este tipo de dashboard es ideal para equipos de cobranzas, finanzas o gestión de riesgo dentro de entidades financieras y de servicios que contemplen el riesgo de tener clientes morosos y necesitan tomar decisiones basadas en datos reales y actualizados.
 
+---
+
+
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://i.imgur.com/XESRE22.png"> **[Análisis de Indicadores Financieros para Gestión de Riesgos en un Banco](https://app.powerbi.com/view?r=eyJrIjoiZmJkYTFjNmYtZmU3YS00Mzc4LTk4MmMtMmQ3ZDIwZmFlNmIxIiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9)**
+
+Este dashboard fue construido con la finalidad de facilitar la gestión del **Área de Riesgos** en un Banco mediante la visualización fácil e intuitiva de diversos indicadores financieros, mismos que son presentados de manera diaria, además de varias *funciones DAX* internas que permiten tener separadores por fecha, gráficas de meses anteriores para una fecha seleccionada entre otras funcionalidades extra.
+
+A pedido del cliente se incluyen también registros de cuentas personalizados y gráficos de resumen para índices financieros, además de indicadores macroeconómicos locales y globales.
 ___
