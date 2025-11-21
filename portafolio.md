@@ -37,7 +37,11 @@ Este tipo de dashboard es ideal para equipos de cobranzas, finanzas o gestión d
 
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/0212e98c-6da2-4c37-a676-f8546cfddffd"> **[Análisis de Indicadores Financieros para Gestión de Riesgos en un Banco](https://app.powerbi.com/view?r=eyJrIjoiZDQ3YmI2Y2MtMDUwNC00ODczLWI3MGQtOTYxNDA5NmRjYWMxIiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9&pageName=0ddfa48a0a33dd4d2644)**
 
-Este dashboard fue construido con la finalidad de facilitar la gestión del **Área de Riesgos** en un Banco mediante la visualización fácil e intuitiva de diversos indicadores financieros y cuentas, mismos que son presentados de manera diaria, además de varias *funciones DAX* internas que permiten tener separadores por fecha, gráficas de meses anteriores para una fecha seleccionada entre otras funcionalidades extra.
+<br/><br/>
 
-A pedido del cliente se incluyen también registros de cuentas personalizadas y gráficos de resumen para índices financieros, además de indicadores macroeconómicos locales y globales.
+Este dashboard fue construido con la finalidad de facilitar la gestión del **Área de Riesgos** en un Banco mediante la visualización fácil e intuitiva de diversos indicadores financieros y cuentas relacionadas con los activos, pasivos, patrimonio y utilidad del Banco, mismos que son presentados de manera diaria.
+
+Se tienen además varias *funciones DAX* internas que permiten tener separadores por fecha, gráficas de los meses anteriores para una fecha seleccionada entre otras funcionalidades extra.
+
+A pedido del cliente se incluyen también registros de cuentas personalizadas y gráficos de resumen para índices y cuentas financieras, además de indicadores macroeconómicos locales y globales.
 ___

@@ -28,4 +28,16 @@ Key data includes factors such as: Total overdue debt, including details at 15 a
 
 This type of dashboard is ideal for collections, finance, or risk management teams within financial and service institutions that consider the risk of having delinquent clients and need to make decisions based on real and up-to-date data.
 
+---
+
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/0212e98c-6da2-4c37-a676-f8546cfddffd"> **[Analysis of Financial Indicators for Risk Management in a Bank](https://app.powerbi.com/view?r=eyJrIjoiZDQ3YmI2Y2MtMDUwNC00ODczLWI3MGQtOTYxNDA5NmRjYWMxIiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9&pageName=0ddfa48a0a33dd4d2644)**
+
+<br/><br/>
+
+This dashboard was built to facilitate the management of the **Risk Area** in a bank by providing easy and intuitive visualizations of various financial indicators and accounts related to the bank's assets, liabilities, equity, and profit, presented on a daily basis.
+
+It also includes several internal *DAX* functions that allow for date separators, charts of previous months for a selected date, and other additional features.
+
+At the client's request, custom account records and summary charts for financial indices and accounts, as well as local and global macroeconomic indicators, can also be included.
+
 ___
