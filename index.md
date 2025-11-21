@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey there, mi name is Carlos Calderon, a former civil engineer who discovered their passion for computer science and technology in general. Within this field, I love data analysis, process automation, software development, and cloud computing. I currently have a Master's degree in Information Systems & Data Science. On this page, you'll find some of my most notable projects in Python, SQL, and interactive dashboards that I created in Power BI.
+Hello there! I'm Carlos Calderón, an engineer by profession who discovered his passion for **Data Science** and computer science in general. Within this field, I really enjoy data analysis, process automation, software development, and cloud computing. I currently hold a Master's degree in Information Systems & Data Science. On this page, you'll find some of my most notable projects in **Python**, SQL, and **interactive dashboards** created with **Power BI**.
 
 
 <p align="center">
