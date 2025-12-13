@@ -4,7 +4,7 @@ En este portafolio te comparto una selección de proyectos que ilustran mis habi
 
 Agradezco tu interés y te invito a explorar más. ¡Gracias por visitar!
 
-## Jupyter Notebooks
+## Proyectos de Análisis de Datos
 
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/3b11bfa3-9561-4d1c-964f-edd951ad17f3"> **[Mejora de gestión de recuperación de cartera vencida en un Banco](https://github.com/carlos-calderon-cabezas/financial-relief-analysis)**
 
