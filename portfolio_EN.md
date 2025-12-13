@@ -7,7 +7,7 @@ I appreciate your interest and invite you to explore further. Thanks for visitin
 
 ## Jupyter Notebooks
 
-<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a11bdc5c-495b-483c-8924-b0aa1f7b2d95"> **[Improving Delinquent Loan Recovery Management at a Bank](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis)**
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a11bdc5c-495b-483c-8924-b0aa1f7b2d95"> **[Improving Delinquent Loan Recovery Management at a Bank](https://github.com/carlos-calderon-cabezas/financial-relief-analysis)**
 
 This project was undertaken to analyze the credit and demographic data of delinquent customers, as well as the bank's current delinquent loan management campaigns.
 
