@@ -32,7 +32,6 @@ This type of dashboard is ideal for collections, finance, or risk management tea
 
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/0212e98c-6da2-4c37-a676-f8546cfddffd"> **[Analysis of Financial Indicators for Risk Management in a Bank](https://app.powerbi.com/view?r=eyJrIjoiZDQ3YmI2Y2MtMDUwNC00ODczLWI3MGQtOTYxNDA5NmRjYWMxIiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9&pageName=0ddfa48a0a33dd4d2644)**
 
-<br/><br/>
 
 This dashboard was built to facilitate the management of the **Risk Area** in a bank by providing easy and intuitive visualizations of various financial indicators and accounts related to the bank's assets, liabilities, equity, and profit, presented on a daily basis.
 
