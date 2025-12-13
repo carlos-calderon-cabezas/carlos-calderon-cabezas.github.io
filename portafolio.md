@@ -6,6 +6,14 @@ Agradezco tu interés y te invito a explorar más. ¡Gracias por visitar!
 
 ## Jupyter Notebooks
 
+
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/745d3055-36a5-4a3e-9741-8ea364b179dd"> **[Mejora de gestión de recuperación de cartera vencida en un Banco](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis)**
+
+Se realiza el presente proyecto con el fin de analizar los datos crediticios y demográficos de clientes en situación de mora, además del análisis de las campañas actuales que tiene el Banco para la gestión de la cartera vencida.
+
+Se analizar diferentes patrones a lo largo del conjunto de datos, se realizan segmentaciones y finalmente se evalúan posibles estrategias para una gestión más eficiente en el departamento de cobranzas y recuperaciones.
+
+___
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/745d3055-36a5-4a3e-9741-8ea364b179dd"> **[Mejora de experiencia del huésped mediante Análisis de Sentimientos de Reseñas de Airbnb](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis)**
 
 Se realiza el presente proyecto con el fin de analizar mediante Procesamiento de Lenguaje Natural (NLP) diferentes reseñas en alojamientos temporales dentro de la plataforma **Airbnb** debido a que han existido varias quejas de huéspedes nacionales y extranjeros y por ende se busca identificar áreas de mejora, fortalecer aspectos positivos y conversar con los anfitriones para proponerles soluciones para mejorar la experiencia de los huéspedes. 

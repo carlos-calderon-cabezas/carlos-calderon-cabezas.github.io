@@ -6,6 +6,14 @@ I appreciate your interest and invite you to explore further. Thanks for visitin
 
 
 ## Jupyter Notebooks
+
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/745d3055-36a5-4a3e-9741-8ea364b179dd"> **[Improving Delinquent Loan Recovery Management at a Bank](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis)**
+
+This project was undertaken to analyze the credit and demographic data of delinquent customers, as well as the bank's current delinquent loan management campaigns.
+
+Different patterns were analyzed across the dataset, segmentation was performed, and finally, potential strategies for more efficient management in the collections and recovery department were evaluated.
+___
+
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https://github.com/user-attachments/assets/745d3055-36a5-4a3e-9741-8ea364b179dd"> **[Improving Guest Experience Through Sentiment Analysis of Airbnb Reviews](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis)**
 
 This project was carried out to analyze different reviews of temporary accommodations within the **Airbnb** platform using Natural Language Processing (NLP). This is due to the fact that there have been several complaints from national and international guests. Therefore, the goal is to identify areas for improvement, strengthen positive aspects, and engage with hosts to propose solutions to improve the guest experience.
